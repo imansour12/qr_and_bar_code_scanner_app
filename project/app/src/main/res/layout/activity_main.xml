@@ -26,6 +26,7 @@
         android:layout_marginStart="161dp"
         android:layout_marginTop="164dp"
         android:layout_marginEnd="161dp"
+        android:onClick="ScanButton"
         android:text="@string/scan"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
